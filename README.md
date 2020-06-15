@@ -10,6 +10,6 @@ Problem statement: Make a webpage to allow users to add their income/expenses, a
 - [x] Colour-code the rows in the table as green for income and red for expenses.
 - [x] Show total/average income and expenses below the table.
 - [x] Upon adding a CSV in the input box again, append the new data to an existing table.
-- [ ] Put buttons to sort the table along with each column.
-- [ ] Put filter dropdowns to apply certain filters.<br>
+- [x] Put buttons to sort the table along with each column.
+- [x] Put filter dropdowns to apply certain filters.<br>
 A wireframe has been provided to help you understand how to arrange these elements.
